@@ -14,9 +14,9 @@
 #include<memory>
 #include<vector>
 
+
 class Grid {
 public:
-
 
     vector<unique_ptr<Node>>nodeTab;
 
