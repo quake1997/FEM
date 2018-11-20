@@ -1,7 +1,7 @@
 //
 // Created by new on 2018-10-18.
 //
-
+//alla
 #ifndef UNTITLED2_ELEMENT_H
 #define UNTITLED2_ELEMENT_H
 #include<iostream>
