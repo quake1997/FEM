@@ -6,7 +6,7 @@
 FileReader::FileReader() {}
 FileReader::FileReader(string path ) {
     this->path=path;
-
+//dtdty
 }
 double FileReader::getH() const {
     return H;
