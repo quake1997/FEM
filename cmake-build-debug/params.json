@@ -1,0 +1,42 @@
+{
+  "H": 0.100,
+  "L": 0.100,
+  "nl": 4,
+  "nh": 4,
+  "k": 25,
+  "c": 700,
+  "ro": 7800,
+  "alfa": 300,
+  "initialTemperature": 100,
+  "simulationTime": 500,
+  "simulationStepTime": 50,
+  "ambientTemperature": 1200,
+  "ksiTab": [
+    {
+      "ksi1": -0.57735
+    },
+    {
+      "ksi2": 0.57735
+    },
+    {
+      "ksi3": 0.57735
+    },
+    {
+      "ksi4": -0.57735
+    }
+  ],
+  "etaTab": [
+    {
+      "eta1": -0.57735
+    },
+    {
+      "eta2": -0.57735
+    },
+    {
+      "eta3": 0.57735
+    },
+    {
+      "eta4": 0.57735
+    }
+  ]
+}
